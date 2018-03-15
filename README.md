@@ -1,2 +1,0 @@
-# ePeople
-ionic mobile app
