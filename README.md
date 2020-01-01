@@ -1,2 +1,2 @@
 # matplotlib
-[]!myanimation.gif
+![](myanimation.gif)
